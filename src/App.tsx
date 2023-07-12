@@ -1,8 +1,7 @@
-import style from './App.module.css'
 import {Counter} from './components'
+import style from './App.module.css'
 
 function App() {
-
 
   return (
     <>
