@@ -22,7 +22,7 @@ function plop (plop) {
         {
           type: 'add',
           path:
-            '../src/ccomponents/{{pascalCase name}}/{{pascalCase name}}.test.tsx',
+            '../src/components/{{pascalCase name}}/{{pascalCase name}}.test.tsx',
           templateFile: 'templates/Test.tsx.hbs',
         },
         {
